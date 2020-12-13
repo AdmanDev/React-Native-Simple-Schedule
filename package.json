@@ -1,7 +1,7 @@
 {
   "name": "rn-simple-schedule",
-  "version": "1.0.0",
-  "description": "This is a simple schedule Reac-Native component",
+  "version": "1.0.1",
+  "description": "This is a simple schedule React-Native component",
   "main": "index.js",
   "types": "index.d.ts",
   "scripts": {
@@ -33,7 +33,6 @@
     "moment": "^2.29.1",
     "prop-types": "^15.7.2",
     "react-moment": "^1.0.0",
-    "react-native-dropdown-picker": "^3.7.1",
-    "rn-simple-schedule": "file:../rn-simple-schedule"
+    "react-native-dropdown-picker": "^3.7.1"
   }
 }
