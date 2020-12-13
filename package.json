@@ -1,0 +1,39 @@
+{
+  "name": "rn-simple-schedule",
+  "version": "1.0.0",
+  "description": "This is a simple schedule Reac-Native component",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdmanDev/React-Native-Simple-Schedule.git"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "schedule",
+    "scheduler",
+    "time",
+    "week"
+  ],
+  "author": "Admandev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AdmanDev/React-Native-Simple-Schedule/issues"
+  },
+  "homepage": "https://github.com/AdmanDev/React-Native-Simple-Schedule#readme",
+  "peerDependencies": {
+    "react": "^16.13.1",
+    "react-native": "^0.63.2"
+  },
+  "dependencies": {
+    "moment": "^2.29.1",
+    "prop-types": "^15.7.2",
+    "react-moment": "^1.0.0",
+    "react-native-dropdown-picker": "^3.7.1",
+    "rn-simple-schedule": "file:../rn-simple-schedule"
+  }
+}
